@@ -1,5 +1,3 @@
-/* @flow */
-
 import config from 'core/config'
 import { addHandler, addProp, getBindingAttr } from 'compiler/helpers'
 import { genComponentModel, genAssignmentCode } from 'compiler/directives/model'
